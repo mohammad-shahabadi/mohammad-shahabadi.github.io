@@ -25,7 +25,7 @@ role: Software Engineer
 organizations:
   - name: NUS SoC
     url: https://www.comp.nus.edu.sg/
-  - name: K.K. N. Toosi University of Technology
+  - name: K.N. Toosi University of Technology
     url: https://en.kntu.ac.ir/
   - name: Digikala
     url: https://www.digikala.com/
@@ -51,7 +51,8 @@ profiles:
 
 interests:
   - Software Engineering
-  - Compilers/Programming Language Implementation
+  - System Architecture & Design
+  - Compilers / Programming Language Implementation
   - Web-based computing / Web development
   - Artificial Intelligence
 
