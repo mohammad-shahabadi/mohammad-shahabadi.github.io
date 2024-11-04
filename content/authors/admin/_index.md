@@ -77,8 +77,7 @@ work:
     date_start: 2024-07-01
     date_end: 2024-10-01
     summary: |
-      - Collaborated with Professor Henz on SourceAcademy, an open-source educational platform, enhancing the C
-compiler with client-side execution capabilities.
+      - Collaborated with Professor Henz on SourceAcademy, an open-source educational platform, enhancing the C compiler with client-side execution capabilities.
       - Enabled conversion of C code to WebAssembly, allowing C programs to run directly in the browser
       - Integrated modules written in JavaScript with the C environment, facilitating cross-language functionality between C and WebAssembly
   - position: Software Engineer (Onsite) - Tehran
