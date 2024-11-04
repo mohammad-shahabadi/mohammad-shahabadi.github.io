@@ -69,6 +69,12 @@ education:
       - Computer Structure & Language (20/20)
       - Internet Engineering (20/20)
       - Advanced Programming (18.5/20)
+
+      Teaching Assistant:
+      - Principles of Compiler Design, supervised by Professor Alaeiyan, Fall 2024
+      - Advanced Programming, supervised by Professor Esnaashari, Spring 2024
+      - Fundamentals of Programming, supervised by Professor Nasihatkon, Fall 2023
+      - Advanced Programming, supervised by Professor Zamanian, Fall 2022
       
 work:
   - position: Research Intern - Software Engineer
