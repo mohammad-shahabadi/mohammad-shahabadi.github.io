@@ -69,6 +69,7 @@ education:
       - Computer Structure & Language (20/20)
       - Internet Engineering (20/20)
       - Advanced Programming (18.5/20)
+      
 work:
   - position: Research Intern - Software Engineer
     company_name: National University of Singapore (NUS)
