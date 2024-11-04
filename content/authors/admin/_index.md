@@ -238,5 +238,3 @@ awards:
 Hi! I am Mohammad Shahabadi, a final-year B.Sc. Computer Engineering student at K. N. Toosi University of Technology, with a GPA of 3.73. I have a strong foundation in software engineering and programming languages, developed through over two years of experience working as a Software Engineer at Digikala, the biggest e-commerce in Iran and Utechia, where I contributed to high-traffic applications and backend systems.
 
 As a Research Intern at the NUS, I collaborated with Professor Henz on the SourceAcademy project to enhance a C compiler with WebAssembly for client-side execution, which sparked my interest in language implementation and compilers. This exposure to web-based computation has inspired me to explore the intersection of software engineering with programming language design.
-
-Through these experiences, I’ve gained practical skills in developing software solutions and deepened my interest in compiler design, web-based computation, and frameworks that enhance usability for scientific applications. I am now eager to further my studies in these areas and contribute to advancing software systems.
