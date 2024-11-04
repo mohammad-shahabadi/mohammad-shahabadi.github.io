@@ -70,6 +70,17 @@ education:
       - Internet Engineering (20/20)
       - Advanced Programming (18.5/20)
 work:
+  - position: Research Intern - Software Engineer
+    company_name: National University of Singapore (NUS)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-07-01
+    date_end: 2024-10-01
+    summary: |
+      - Collaborated with Professor Henz on SourceAcademy, an open-source educational platform, enhancing the C
+compiler with client-side execution capabilities.
+      - Enabled conversion of C code to WebAssembly, allowing C programs to run directly in the browser
+      - Integrated modules written in JavaScript with the C environment, facilitating cross-language functionality between C and WebAssembly
   - position: Software Engineer (Onsite) - Tehran
     company_name: Digikala
     company_url: ''
@@ -77,7 +88,6 @@ work:
     date_start: 2022-08-01
     date_end: 2023-11-30
     summary: |2-
-      Responsibilities include:
       - Developed and maintained high-traffic web applications, with over 40 million views per month, for Iran's leading ecommerce platform, utilizing technologies such as PHP, Kafka, and others.
       - Orchestrated integration between Tax Government and finance services to streamline data flow and ensure compliance.
       - Authored comprehensive tests to fortify application robustness and reliability.
@@ -88,7 +98,6 @@ work:
     date_start: 2021-08-01
     date_end: 2021-08-01
     summary: |
-      Responsibilities include:
       - Developed REST API applications using Node.js and the NestJs framework
       - Utilized SQL and NoSQL databases including PostgreSQL and MongoDB
 
