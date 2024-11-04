@@ -95,36 +95,112 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
+      - name: Javascript
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Typescript
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: C/C++
+        description: ''
+        percent: 100
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+
+  - name: Technologies
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: NestJs
         description: ''
         percent: 80
-        icon: camera
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Django
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Spring Boot
+        description: ''
+        percent: 100
+        icon: code-bracket
+  - name: Tools
+    items:
+      - name: PostgreSQL
+        description: ''
+        percent: 80
+        icon: circle-stack
+      - name: MongoDB
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Redis
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Docker
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Git
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Linux
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Kafka
+        description: ''
+        percent: 40
+        icon: code-bracket
+  - name: AI
+    items:
+      - name: NumPy
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Pandas
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Pytorch
+        description: ''
+        percent: 100
+        icon: code-bracket
+
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
   - name: English
