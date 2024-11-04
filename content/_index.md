@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am passionate about software engineering, with a particular interest in system design, backend development, and web-based computation. My research interests include creating scalable and efficient backend systems that support high-performance applications and exploring programming language design to improve developer productivity and software reliability. Recently, I've become particularly interested in the capabilities of WebAssembly and its potential for efficient web-based computation. I am also drawn to compiler and language implementation. Additionally, I am keen on investigating frameworks and tools that make complex software systems more accessible and maintainable in distributed settings.
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection
