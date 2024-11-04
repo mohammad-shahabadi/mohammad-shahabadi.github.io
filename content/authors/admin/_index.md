@@ -75,7 +75,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-08-01
-    date_end: 2023-11-31
+    date_end: 2023-11-30
     summary: |2-
       Responsibilities include:
       - Developed and maintained high-traffic web applications, with over 40 million views per month, for Iran's leading ecommerce platform, utilizing technologies such as PHP, Kafka, and others.
